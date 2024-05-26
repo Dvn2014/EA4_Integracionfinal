@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="StaginJardineria SA"
+  DTS:DTSID="{F6807F2A-1426-452C-ADC6-BAFDE2F0B360}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.,15000;User ID=SA;Initial Catalog=StaginJardineria;Persist Security Info=True;Encrypt=False;Application Name=&quot;SSIS-Evidencia de aprendizaje 2-{F6807F2A-1426-452C-ADC6-BAFDE2F0B360}.,15000.StaginJardineria.SA&quot;;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp12CUU+x70uJuh9/urnGbgAAAAACAAAAAAAQZgAAAAEAACAAAADc0QnRbOucmlt8to00wC4kqffpWt4EZIeUG1LSiKfi4gAAAAAOgAAAAAIAACAAAAArXwIGCaEJ37TBgtElaxfNXijt7okzo+7lvzS25OniT4AAAABZiGHpch6IIxokgcCJS/n/ez6IqZeM/djM561mJ969Wxo5BcAWkegIm40eNZNzteuPkEaEzn6TKehcNkMd69oH+BtQd+DXCuNM7/rlCn6xUf2NElD1viW63Y6w6DEdAQVDfpGuRA5t3GVulU0bBteYbjrIdeOg6/GVmo4ZpadfFEAAAACWzsUs6zS6CosfMZ13XqQM7Arem6QRy5ZxaBtBZ2SfqbU6gO02wiU3CLFtNfSDTtHX7tutuPqUz752OciaR8/U</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
